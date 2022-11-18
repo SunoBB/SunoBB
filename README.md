@@ -19,8 +19,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SunoBB&custom_title=My%20GitHub%27s%20Stats&count_private=true&include_all_commits=true&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
-### WELCOME TO MY PAGE 👋👋👋
-My name is Viet Nguyen. I am an M.Sc. in Computer Science, majoring in Artificial Intelligence and Robotics. I am interested in the following topics: Deep Learning in NLP and Computer Vision. Reinforcement Learning.<br>
+
 ## 📫 How to reach me: 
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/nguyen-dinh-bach-0926a7244/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/SunoBB)
