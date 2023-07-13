@@ -20,9 +20,11 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SunoBB&custom_title=My%20GitHub%27s%20Stats&count_private=true&include_all_commits=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Competitive Programming
-![LeetCode Stats](https://leetcard.jacoblin.cool/SunoBB?theme=dark&font=Libre%20Caslon%20Text)
+<p float="left">
+![LeetCode Stats](https://leetcard.jacoblin.cool/SunoBB?theme=dark&font=Karma&ext=contest)
 ![](https://raw.githubusercontent.com/SunoBB/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
 ## 📫 How to reach me: 
+</p>
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/nguyen-dinh-bach-0926a7244/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/SunoBB)
 <!-- [![Youtube](https://github.com/SunoBB/introduction/blob/main/Youtube.png) Youtube]() -->
