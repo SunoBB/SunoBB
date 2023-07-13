@@ -19,11 +19,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SunoBB&custom_title=My%20GitHub%27s%20Stats&count_private=true&include_all_commits=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-<p float="left">
-<img height="273em" src="https://leetcard.jacoblin.cool/sudiptob2?theme=light&font=Karma&ext=contest" />
-<img height="280em" src="https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/light_card.svg" />
-</p>
-
+## Competitive Programming
+![](https://raw.githubusercontent.com/SunoBB/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
 ## 📫 How to reach me: 
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/nguyen-dinh-bach-0926a7244/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/SunoBB)
