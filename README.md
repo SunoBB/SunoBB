@@ -20,6 +20,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SunoBB&custom_title=My%20GitHub%27s%20Stats&count_private=true&include_all_commits=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Competitive Programming
+![LeetCode Stats](https://leetcard.jacoblin.cool/SunoBB?theme=dark&font=Libre%20Caslon%20Text)
 ![](https://raw.githubusercontent.com/SunoBB/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
 ## 📫 How to reach me: 
 
