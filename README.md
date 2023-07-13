@@ -19,10 +19,10 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SunoBB&custom_title=My%20GitHub%27s%20Stats&count_private=true&include_all_commits=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-## Competitive Programming
+<b>&#128200; Competitive Programming</b>
 <p float="left">
-![LeetCode Stats](https://leetcard.jacoblin.cool/SunoBB?theme=dark&font=Karma&ext=contest)
-![](https://raw.githubusercontent.com/SunoBB/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
+<img height="273em" src="https://leetcard.jacoblin.cool/SunoBB?theme=dark&font=Karma&ext=contest" />
+<img height="280em" src="https://raw.githubusercontent.com/SunoBB/cf-stats/main/output/light_card.svg#gh-dark-mode-only" />
 </p>
 
 ## 📫 How to reach me: 
