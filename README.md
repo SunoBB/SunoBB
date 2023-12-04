@@ -66,7 +66,7 @@ class aboutMe():
 <!-- Competitive Programming is header 1 -->
  
 <b><h3>&#128200; Competitive Programming</h3></b>
-<p float="left">
+<p float="center">
 <img height="273em" width="341px" src="https://leetcard.jacoblin.cool/SunoBB?theme=dark&font=Karma&ext=contest" />
 <img height="280em" src="https://raw.githubusercontent.com/SunoBB/cf-stats/main/output/light_card.svg#gh-dark-mode-only" />
 </p>
