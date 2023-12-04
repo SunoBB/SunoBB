@@ -1,10 +1,11 @@
 <!-- move title to center an format it header 2 -->
 <h2 align="center">Hi there, I'm Suno 👋</h2>
 
-### Hi there!
+
+### Wish you have a good day!
 
 
-I am coder, I am a student, I am a human. I am Suno. Nice to meet you!
+> I am coder, I am a student, I am a human. I am Suno. Nice to meet you!
 
 
 ### About me:
@@ -34,8 +35,14 @@ class aboutMe():
                 
                 return "Hello there, I'm Suno, nice to meet you!"
 
+        def _MoreOption(self):
+                return 'https://sunobb.github.io/' # Update later
+
 
 ```
+<!-- Using latex for name Suno with color Blue -->
+
+
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SunoBB&custom_title=My%20GitHub%27s%20Stats&count_private=true&include_all_commits=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
