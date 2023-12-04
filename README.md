@@ -1,8 +1,17 @@
 <!-- move title to center an format it header 2 -->
 <h2 align="center">Hi there, I'm Suno 👋</h2>
 
+<!-- move badges to center -->
 
-### Wish you have a good day!
+<p align="center">
+    <a href="https://github.com/SunoBB/github-badges">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Suno's Badge" src="https://img.shields.io/github/last-commit/SunoBB/SunoBB?&style=for-the-badge&color=C9CBFF&logoColor=D9E0EE&labelColor=302D41"/>
+    </a>
+</p>
+
+
+
+
 
 
 > I am coder, I am a student, I am a human. I am Suno. Nice to meet you!
@@ -20,6 +29,7 @@ class aboutMe():
                 self.age = "#N/A"
                 self.location = "Vietnam"
                 self.occupation = "Student"
+                self.OS = ["Linux", "Windows"]
                 self.Jobs = [
                         "Internship at HiNET"]
                 self.MainLanguages = [
@@ -40,23 +50,33 @@ class aboutMe():
 
 
 ```
-<!-- Using latex for name Suno with color Blue -->
+
+### 🔥My Github Streak
+
+<p align="center">
+    <a href="https://github.com/SunoBB/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Suno's Streak" src="https://github-readme-streak-stats.herokuapp.com?user=SunoBB&theme=one-dark-pro&hide_border=true&date_format=%5BY%20%5DM%20j"/>
+    </a>
+</p>
 
 
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SunoBB&custom_title=My%20GitHub%27s%20Stats&count_private=true&include_all_commits=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-<b>&#128200; Competitive Programming</b>
+<!-- Competitive Programming is header 1 -->
+ 
+<b><h3>&#128200; Competitive Programming</h3></b>
 <p float="left">
 <img height="273em" width="341px" src="https://leetcard.jacoblin.cool/SunoBB?theme=dark&font=Karma&ext=contest" />
 <img height="280em" src="https://raw.githubusercontent.com/SunoBB/cf-stats/main/output/light_card.svg#gh-dark-mode-only" />
 </p>
 
-## About Languages 
 
-![](https://raw.githubusercontent.com/SunoBB/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/SunoBB/github-stats/master/generated/overview.svg#gh-light-mode-only)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SunoBB&show_icons=true&locale=en&layout=compact&bg_color=000000&title_color=90EE90&text_color=CCCCCC" alt="SunoBB" /></p>
+
+
+
+
+<!-- Setup it centor -->
+
 
 
 ## 📫 How to reach me: 
