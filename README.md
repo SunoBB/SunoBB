@@ -72,7 +72,9 @@ class aboutMe():
 </p>
 
 
+<!-- About of most Language -->
 
+<h3 align="left">📊 Most Used Languages</h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SunoBB&show_icons=true&locale=en&layout=compact&bg_color=1E1E1E&title_color=90EE90&text_color=CCCCCC&icon_color=FFD700" alt="SunoBB" /></p>
 
 
