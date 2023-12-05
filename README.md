@@ -5,16 +5,13 @@
 
 <p align="center">
     <a href="https://github.com/SunoBB/github-badges">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Suno's Badge" src="https://img.shields.io/github/last-commit/SunoBB/SunoBB?&style=for-the-badge&color=C9CBFF&logoColor=D9E0EE&labelColor=302D41"/>
+        <img title="Last commit Readme's" alt="Suno's Badge" src="https://img.shields.io/github/last-commit/SunoBB/SunoBB?&style=for-the-badge&color=C9CBFF&logoColor=D9E0EE&labelColor=302D41"/>
 
-        <!-- add connect discord -->
-    </a>
+</a>
 </p>
 
 
-
-
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sunobb&label=Profile%20views&color=0e75b6&style=flat" alt="sunobb" /> </p>
 
 
 > I am coder, I am a student, I am a human. I am Suno. Nice to meet you!
@@ -76,13 +73,7 @@ class aboutMe():
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SunoBB&show_icons=true&locale=en&layout=compact&bg_color=1E1E1E&title_color=90EE90&text_color=CCCCCC&icon_color=FFD700" alt="SunoBB" /></p>
-<!--  -->
-
-
-
-
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SunoBB&show_icons=true&locale=en&layout=compact&bg_color=1E1E1E&title_color=90EE90&text_color=CCCCCC&icon_color=FFD700" alt="SunoBB" /></p>
 
 
 
