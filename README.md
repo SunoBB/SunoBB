@@ -6,8 +6,11 @@
 <p align="center">
     <a href="https://github.com/SunoBB/github-badges">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Suno's Badge" src="https://img.shields.io/github/last-commit/SunoBB/SunoBB?&style=for-the-badge&color=C9CBFF&logoColor=D9E0EE&labelColor=302D41"/>
+
+        <!-- add connect discord -->
     </a>
 </p>
+
 
 
 
@@ -74,18 +77,25 @@ class aboutMe():
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SunoBB&show_icons=true&locale=en&layout=compact&bg_color=1E1E1E&title_color=90EE90&text_color=CCCCCC&icon_color=FFD700" alt="SunoBB" /></p>
+<!--  -->
 
 
 
 
 
-<!-- Setup it centor -->
 
 
 
-## 📫 How to reach me: 
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/nguy3ndinhbach/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/SunoBB)
+
+<h3 align="center"> 📫 How to reach me
+</a> - <i>Sunoo</i> </h3>
+<br>
+<p align="center">
+<a href="mailto:ndbach22@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/nguy3ndinhbach"><img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://discordapp.com/users/906018806512615485"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
+<br>
 <!-- [![Youtube](https://github.com/SunoBB/introduction/blob/main/Youtube.png) Youtube]() -->
 
 
