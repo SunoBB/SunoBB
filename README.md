@@ -10,8 +10,7 @@
 </a>
 </p>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sunobb&label=Profile%20views&color=0e75b6&style=flat" alt="sunobb" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sunobb&label=Profile%20views&color=0e75b6&style=flat-square" alt="sunobb" /> </p>
 <!-- fix profile view same Lastcommit -->
 
 > I am coder, I am a student, I am a human. I am Suno. Nice to meet you!
