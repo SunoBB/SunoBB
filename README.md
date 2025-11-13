@@ -1,100 +1,123 @@
-<!-- move title to center an format it header 2 -->
-<h2 align="center">Hi there, I'm Suno 👋</h2>
-
-<!-- move badges to center -->
-
-<p align="center">
-    <a href="https://github.com/SunoBB/github-badges">
-        <img title="Last commit Readme's" alt="Suno's Badge" src="https://img.shields.io/github/last-commit/SunoBB/SunoBB?&style=for-the-badge&color=C9CBFF&logoColor=D9E0EE&labelColor=302D41"/>
-
-</a>
-</p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sunobb&label=Profile%20views&color=0e75b6&style=flat-square" alt="sunobb" /> </p>
-<!-- fix profile view same Lastcommit -->
-
-> I am coder, I am a student, I am a human. I am Suno. Nice to meet you!
-
-
-### About me:
-
-
-```python
-
-class aboutMe():
-        def __init__(self):
-
-                self.name = "Suno"
-                self.age = "#N/A"
-                self.location = "Vietnam"
-                self.occupation = "Student"
-                self.OS = ["Linux", "Windows"]
-                self.Jobs = [
-                        "Internship at HiNET"]
-                self.MainLanguages = [
-                        "Python", "Shell", "R", "C++", "C#"]
-                self.database = [
-                        "MySQL", "PostgreSQL"]
-                self.tool = [
-                        "VSCode", "PyCharm", "RStudio", "Jupyter Notebook", "Git", "GitHub"]
-                self.hobbies = [
-                        "Code", "Sleep", "Eat", "Repeat"]
-        
-        def __str__(self):
-                
-                return "Hello there, I'm Suno, nice to meet you!"
-
-        def _MoreOption(self):
-                return 'https://sunobb.github.io/' # Update later
-
-
-```
-
-### 🔥My Github Streak
-
-<p align="center">
-    <a href="https://github.com/SunoBB/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Suno's Streak" src="https://github-readme-streak-stats.herokuapp.com?user=SunoBB&theme=one-dark-pro&hide_border=true&date_format=%5BY%20%5DM%20j"/>
-    </a>
-</p>
-
-
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
-
-<!-- Competitive Programming is header 1 -->
- 
-<b><h3>&#128200; Competitive Programming</h3></b>
-<p float="center">
-<img height="273em" width="341px" src="https://leetcard.jacoblin.cool/SunoBB?theme=dark&font=Karma&ext=contest" />
-<img height="280em" src="https://raw.githubusercontent.com/SunoBB/cf-stats/main/output/light_card.svg#gh-dark-mode-only" />
-</p>
-
-
-<!-- About of most Language -->
-
-<h3 align="left">📊 Most Used Languages</h3>
-
-
-
-<p align="center">
-    <a href="https://github.com/SunoBB/github-stars-most-lang">
-        <img title="Suno's most lang" alt="Suno's Lang" src="https://github-readme-stats.vercel.app/api/top-langs?username=SunoBB&show_icons=true&locale=en&layout=compact&bg_color=1E1E1E&title_color=90EE90&text_color=CCCCCC&icon_color=FFD700"/></a>
-        <img title="Suno's Stars" alt="Suno's Stars" src="https://github-readme-stats.vercel.app/api?username=sunobb&show_icons=true&locale=en&bg_color=1E1E1E&title_color=90EE90&text_color=CCCCCC&icon_color=FFD700"/>
-    </a>
-
-</p>
+<div align="center">
+  <h1 align="center">Hi there, I'm Suno 👋</h2>
+  <p>Crafting dependable systems, polishing data stories, and racing algorithms for fun.</p>
+  <a href="https://github.com/SunoBB">
+    <img src="https://img.shields.io/github/followers/SunoBB?label=Follow&style=for-the-badge&color=8A77FF&labelColor=1E1E2E" alt="GitHub followers badge"/>
+  </a>
+  <a href="https://github.com/SunoBB">
+    <img src="https://img.shields.io/github/last-commit/SunoBB/SunoBB?style=for-the-badge&color=F6C177&labelColor=1E1E2E" alt="Last commit badge"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=SunoBB&label=Visitors&color=6BD4FF&style=for-the-badge" alt="Profile views"/>
+</div>
 
 ---
 
-<h3 align="center"> 📫 How to reach me
-</a> - <i>Sunoo</i> </h3>
-<br>
+### 🚀 Quick Snapshot
+- 🇻🇳 Hà Nội based student & HiNET intern keeping terminals busy almost 24/7.
+- 🧠 Loves Pythonic data science, systems scripting, and sharpening C++ competitiveness.
+- 🗃️ Databases I trust daily: PostgreSQL, MySQL, MongoDB.
+- 🧪 Current experiments: automation frameworks, reproducible research notebooks, and low-level optimizations.
+- 🎯 Philosophy: build resilient tooling, document it well, share the journey.
+
+### 🧱 Tech Wardrobe
 <p align="center">
-<a href="mailto:ndbach22@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/nguy3ndinhbach"><img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://discordapp.com/users/906018806512615485"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
-<br>
-<!-- [![Youtube](https://github.com/SunoBB/introduction/blob/main/Youtube.png) Youtube]() -->
+  <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" alt="Python"/></a>
+  <a href="https://isocpp.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" alt="C++"/></a>
+  <a href="https://www.w3schools.com/cs/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="45" alt="C#"/></a>
+  <a href="https://www.shellscript.sh"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="45" alt="Bash"/></a>
+  <a href="https://www.r-project.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="45" alt="R"/></a>
+  <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45" alt="Git"/></a>
+  <a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45" alt="PostgreSQL"/></a>
+  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" alt="MySQL"/></a>
+  <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45" alt="MongoDB"/></a>
+  <a href="https://nodejs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45" alt="Node.js"/></a>
+  <a href="https://www.selenium.dev/"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" width="45" alt="Selenium"/></a>
+  <a href="https://opencv.org/"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="45" alt="OpenCV"/></a>
+</p>
+<p align="center">
+  <sub>Toolbox comfort zone: Linux · VS Code · PyCharm · RStudio · GitHub Actions · Jupyter</sub>
+</p>
 
+### 📈 GitHub Pulse
+<p align="center">
+  <a href="https://github.com/SunoBB">
+    <img src="https://github-readme-stats.vercel.app/api?username=SunoBB&show_icons=true&bg_color=0A0A0F&title_color=F6C177&text_color=E0E1F0&icon_color=7EE787&hide_border=true" alt="GitHub stats"/>
+  </a>
+  <a href="https://github.com/SunoBB/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=SunoBB&theme=radical&hide_border=true&background=0A0A0F" alt="GitHub streak"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/SunoBB">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SunoBB&layout=compact&bg_color=0A0A0F&title_color=8A77FF&text_color=E0E1F0&hide_border=true" alt="Top languages"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/SunoBB">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=SunoBB&theme=react-dark&custom_title=Contribution%20Heatmap&hide_border=true" alt="Activity graph"/>
+  </a>
+</p>
 
+### 🧩 Selected Builds
+| Project | Snapshot | Stack |
+| --- | --- | --- |
+| [Research Pipeline Kit](https://github.com/SunoBB) | Modular data ingestion + notebook reproducibility templates. | Python · pandas · Papermill |
+| [Contest Toolkit](https://github.com/SunoBB) | Snappy template repo for CF/ICPC with CLI judge + snippets. | C++20 · Python · GitHub Actions |
+| [Ops Dashboard](https://github.com/SunoBB) | Self-hosted metrics board that tracks study streaks & task burn-down. | Node.js · PostgreSQL · Grafana |
+| [SunoBB](https://github.com/SunoBB/SunoBB) | Experiments container for ML notebooks, automation, and demos. | Bash · Docker · Jupyter |
+
+### 🏆 Competitive Playground
+<p align="center">
+  <img height="273" src="https://leetcard.jacoblin.cool/SunoBB?theme=dark&font=Karma&ext=contest" alt="LeetCode card"/>
+  <img height="273" src="https://raw.githubusercontent.com/SunoBB/cf-stats/main/output/light_card.svg#gh-dark-mode-only" alt="Codeforces stats"/>
+</p>
+<p align="center">
+  <sub>Staying sharp with daily contests, code golf, and editorial write-ups.</sub>
+</p>
+
+### 🐍 Commit Garden
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SunoBB/SunoBB/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation"/>
+</p>
+
+### 🧭 Currently Navigating
+- Designing automation scripts to keep research reproducible (think data pipelines, makefiles, lint hooks).
+- Building resilient backend services that can survive messy data and even messier users.
+- Writing about learning paths at <a href="https://SunoBB.github.io/">SunoBB.github.io</a> so others can skip avoidable errors.
+
+### 🗓️ Milestones Timeline
+<table>
+  <tr>
+    <td align="right"><strong>2024</strong></td>
+    <td>Launched the automation kit powering my research & internship reports.</td>
+  </tr>
+  <tr>
+    <td align="right"><strong>2023</strong></td>
+    <td>Joined HiNET as an intern, focused on data quality and Python tooling.</td>
+  </tr>
+  <tr>
+    <td align="right"><strong>2022</strong></td>
+    <td>Published competitive programming snippets and first contest write-ups.</td>
+  </tr>
+  <tr>
+    <td align="right"><strong>2021</strong></td>
+    <td>Fell in love with Linux customization, dotfiles, and productivity scripts.</td>
+  </tr>
+</table>
+
+### 🎧 Vibes & Habits
+- ⏰ Prime coding hours: 11 PM – 2 AM with lo-fi beats or city pop on loop.
+- 📚 Current reads: “Designing Data-Intensive Applications” & “Competitive Programmer’s Handbook”.
+- 🍵 Rituals: pour-over coffee for serious debugging, jasmine tea for story writing.
+- 🎮 Breaks: rhythm games + speedcubing to keep reflexes crisp.
+
+### 📬 Connect
+<p align="center">
+  <a href="mailto:ndbach22@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail badge"/></a>
+  <a href="https://www.linkedin.com/in/nguy3ndinhbach"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge"/></a>
+  <a href="https://discordapp.com/users/906018806512615485"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord badge"/></a>
+</p>
+
+<p align="center">
+  <em>“Code boldly, document lovingly, refactor relentlessly.” — SunoBB</em>
+</p>
