@@ -75,10 +75,10 @@
   <sub>Staying sharp with daily contests, code golf, and editorial write-ups.</sub>
 </p>
 
-### 🐍 Commit Garden
+<!-- ### 🐍 Commit Garden
 <p align="center">
   <img src="https://raw.githubusercontent.com/SunoBB/SunoBB/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation"/>
-</p>
+</p> -->
 
 ### 🧭 Currently Navigating
 - Designing automation scripts to keep research reproducible (think data pipelines, makefiles, lint hooks).
