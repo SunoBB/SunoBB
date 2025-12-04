@@ -61,10 +61,14 @@
 ### 🧩 Selected Builds
 | Project | Snapshot | Stack |
 | --- | --- | --- |
-| [Research Pipeline Kit](https://github.com/SunoBB) | Modular data ingestion + notebook reproducibility templates. | Python · pandas · Papermill |
-| [Contest Toolkit](https://github.com/SunoBB) | Snappy template repo for CF/ICPC with CLI judge + snippets. | C++20 · Python · GitHub Actions |
-| [Ops Dashboard](https://github.com/SunoBB) | Self-hosted metrics board that tracks study streaks & task burn-down. | Node.js · PostgreSQL · Grafana |
-| [SunoBB](https://github.com/SunoBB/SunoBB) | Experiments container for ML notebooks, automation, and demos. | Bash · Docker · Jupyter |
+| PoTral – Automated Traffic Fine System | CV pipeline to flag red-light violations and auto-extract license plates; traffic-light state recognition + plate localization ready for OCR. | OpenCV · NumPy (CV2) |
+| Helmet Detection using YOLOv5 | Real-time helmet detection with YOLOv5; preprocessing/augmentation flows and OpenCV dashboards to track training. | YOLOv5 · OpenCV · NumPy |
+| DreamChaserHub — Scholarship Platform | Backend for scholarship recommendation/management with AI recs, reminders, notifications, and WebSocket updates. | FastAPI (async) · PostgreSQL/AsyncPG · JWT/RBAC · APScheduler · Docker |
+
+### 🛠️ Recent Projects
+- **PoTral – Automated Traffic Fine System** (Aug 2022) · CV pipeline to flag red-light violations and auto-extract license plates; traffic-light state recognition + plate localization in OpenCV/NumPy (CV2) for downstream OCR. [GitHub](https://github.com/SunoBB/DS_FTU_Talent)
+- **Helmet Detection using YOLOv5** (Jul 2024 – Feb 2025) · YOLOv5 model for real-time helmet detection; preprocessing/augmentation flows, OpenCV dashboards for monitoring; tuning hyperparameters for higher mAP.
+- **DreamChaserHub — Scholarship Platform** (2024 – Present) · Backend lead: modular REST APIs (auth, users, scholarships, applications) with Pydantic + custom middleware; AI recs via Google Gemini with Loguru monitoring; scheduled reminders (APScheduler), SMTP notifications, WebSocket pushes; optimized async PostgreSQL with JWT-based RBAC; Docker Compose + OpenAPI/Swagger docs.
 
 ### 🏆 Competitive Playground
 <p align="center">
