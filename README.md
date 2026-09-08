@@ -36,7 +36,7 @@
   <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45" alt="MongoDB"/></a> &nbsp;
   <a href="https://nodejs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45" alt="Node.js"/></a> &nbsp;
   <a href="https://www.selenium.dev/"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" width="45" alt="Selenium"/></a> &nbsp;
-  <a href="https://opencv.org/"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="45" alt="OpenCV"/></a>
+  <a href="https://opencv.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-icon.svg" width="45" alt="OpenCV"/></a>
 </p>
 <p align="center">
   <sub>Toolbox comfort zone: Linux · VS Code · PyCharm · RStudio · GitHub Actions · Docker · Jupyter</sub>
@@ -45,33 +45,26 @@
 ---
 
 ### 🛠️ Featured Projects
-| Project | Snapshot | Tech Stack | Repository |
-| :--- | :--- | :--- | :---: |
-| **PoTral – Automated Traffic Fine System** | CV pipeline to flag red-light violations and auto-extract license plates; traffic-light state recognition + plate localization ready for OCR. | `OpenCV` `NumPy` `Python` | [Code](https://github.com/SunoBB/DS_FTU_Talent) |
-| **Helmet Detection using YOLOv5** | Real-time motorcycle helmet detection system; preprocessing/augmentation flows, OpenCV dashboards for monitoring, and hyperparameter tuning for higher mAP. | `YOLOv5` `PyTorch` `OpenCV` | — |
-| **DreamChaserHub — Scholarship Platform** | Backend lead: modular async REST APIs, Gemini AI recommendations, scheduled notifications (APScheduler, SMTP), WebSocket pushes, and async PostgreSQL with RBAC. | `FastAPI` `PostgreSQL` `Docker` | — |
+| Project | Snapshot | Tech Stack |
+| :--- | :--- | :---: |
+| [**PoTral – Automated Traffic Fine System**](https://github.com/SunoBB/DS_FTU_Talent) | CV pipeline to flag red-light violations and auto-extract license plates; traffic-light state recognition + plate localization ready for OCR. | `OpenCV` · `NumPy` · `Python` |
+| **Helmet Detection using YOLOv5** | Real-time motorcycle helmet detection system; preprocessing/augmentation flows, OpenCV dashboards for monitoring, and hyperparameter tuning for higher mAP. | `YOLOv5` · `PyTorch` · `OpenCV` |
+| **DreamChaserHub — Scholarship Platform** | Backend lead: modular async REST APIs, Gemini AI recommendations, scheduled notifications (APScheduler, SMTP), WebSocket pushes, and async PostgreSQL with RBAC. | `FastAPI` · `PostgreSQL` · `Docker` |
 
 ---
 
 ### 📊 GitHub Activity & Pulse
 <p align="center">
   <a href="https://github.com/SunoBB">
-    <img src="https://github-readme-stats.vercel.app/api?username=SunoBB&show_icons=true&bg_color=0A0A0F&title_color=F6C177&text_color=E0E1F0&icon_color=7EE787&hide_border=true" alt="GitHub stats"/>
+    <img height="195" src="https://github-readme-stats-fast.vercel.app/api?username=SunoBB&show_icons=true&bg_color=0A0A0F&title_color=F6C177&text_color=E0E1F0&icon_color=7EE787&hide_border=true" alt="GitHub stats"/>
   </a>
   <a href="https://github.com/SunoBB/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=SunoBB&theme=radical&hide_border=true&background=0A0A0F" alt="GitHub streak"/>
+    <img height="195" src="https://github-readme-streak-stats.herokuapp.com?user=SunoBB&theme=radical&hide_border=true&background=0A0A0F" alt="GitHub streak"/>
   </a>
 </p>
-
 <p align="center">
   <a href="https://github.com/SunoBB">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SunoBB&layout=compact&bg_color=0A0A0F&title_color=8A77FF&text_color=E0E1F0&hide_border=true" alt="Top languages"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/SunoBB">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=SunoBB&theme=react-dark&custom_title=Contribution%20Heatmap&hide_border=true" alt="Activity graph"/>
+    <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=SunoBB&layout=compact&bg_color=0A0A0F&title_color=8A77FF&text_color=E0E1F0&hide_border=true" alt="Top languages"/>
   </a>
 </p>
 
@@ -79,8 +72,9 @@
 
 ### 🏆 Competitive Playground
 <p align="center">
-  <img height="273" src="https://leetcard.jacoblin.cool/SunoBB?theme=dark&font=Karma&ext=contest" alt="LeetCode card"/>
-  <img height="273" src="https://raw.githubusercontent.com/SunoBB/cf-stats/main/output/light_card.svg#gh-dark-mode-only" alt="Codeforces stats"/>
+  <!-- To add LeetCode: replace USERNAME with your valid LeetCode handle -->
+  <!-- <img height="220" src="https://leetcard.jacoblin.cool/USERNAME?theme=dark&font=Karma" alt="LeetCode card"/> -->
+  <img height="220" src="https://raw.githubusercontent.com/SunoBB/cf-stats/main/output/light_card.svg#gh-dark-mode-only" alt="Codeforces stats"/>
 </p>
 <p align="center">
   <sub>Staying sharp with daily contests, code golf, and editorial write-ups.</sub>
