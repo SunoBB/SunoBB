@@ -54,17 +54,6 @@
 ---
 
 ### 📊 GitHub Activity & Pulse
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SunoBB/SunoBB/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SunoBB/SunoBB/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SunoBB/SunoBB/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
-<br/>
-
 <p align="center">
   <a href="https://github.com/SunoBB">
     <img src="https://github-readme-stats.vercel.app/api?username=SunoBB&show_icons=true&bg_color=0A0A0F&title_color=F6C177&text_color=E0E1F0&icon_color=7EE787&hide_border=true" alt="GitHub stats"/>
@@ -96,6 +85,17 @@
 <p align="center">
   <sub>Staying sharp with daily contests, code golf, and editorial write-ups.</sub>
 </p>
+
+---
+
+### 🐍 Commit Garden
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SunoBB/SunoBB/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SunoBB/SunoBB/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SunoBB/SunoBB/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 ---
 
